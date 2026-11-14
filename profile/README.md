@@ -54,7 +54,7 @@ Food tracking usually fails on the typing. **ReceiptCal skips it.** You get a pr
 
 | | Project | What it is |
 | --- | --- | --- |
-| 🤖 | [**receiptcal-plugin**](https://github.com/mihirkavi/receiptcal-plugin) | MCP plugin that brings your ReceiptCal food log into Claude Code, Codex and other AI assistants, with OAuth sign-in and approve-first changes. MIT. |
+| 🤖 | [**receiptcal-plugin**](https://github.com/ReceiptCal/receiptcal-plugin) | MCP plugin that brings your ReceiptCal food log into Claude Code, Codex and other AI assistants, with OAuth sign-in and approve-first changes. MIT. |
 | 🥗 | [**open-nutrition-transaction**](https://github.com/mihirkavi/open-nutrition-transaction) | An open standard for moving the nutrition of food you buy, with your permission, from stores and restaurants to the apps you choose. JSON Schema, OpenAPI, validator. |
 | 🔌 | [**Hosted MCP server**](https://receiptcal.com/developers/) | `https://mcp.receiptcal.com/mcp`, plus [`openapi.json`](https://receiptcal.com/openapi.json) and [`llms-full.txt`](https://receiptcal.com/llms-full.txt). |
 
